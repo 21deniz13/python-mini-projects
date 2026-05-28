@@ -1,4 +1,4 @@
-#isdigit string içinde rakam olup olmadıgını kontrol eder metin.isdigit()
+
 sifre=input("Sifre giriniz:")
 sayi_var_mi=False
 if len(sifre)<8:
